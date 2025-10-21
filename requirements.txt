@@ -3,3 +3,9 @@ dotenv==0.9.9
 
 # For 01_Google ADK_Hands-On Code Example.ipynb
 google-adk==1.16.0
+
+# For 02_LangChain_Hands-On Code Example.ipynb
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-openai==0.3.35
+langgraph==1.0.1
